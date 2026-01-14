@@ -1,4 +1,4 @@
-# Enterprise Quality & Test Management Dashboard
+# Enterprise Quality Executive Dashboard
 **Azure DevOps Integration via Power BI Fabric**
 
 ## Overview
