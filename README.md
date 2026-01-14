@@ -18,7 +18,7 @@ This enterprise-level reporting solution provides end-to-end visibility into tes
 - **Semantic Modeling:** Scalable model consolidating Test Plans, Suites, Runs, and Points alongside User Stories, Bugs, and Requirements.
 - **Automated Distribution:** Local PowerShell scripts extract high-priority metrics from the semantic model to send automated status emails to stakeholders twice daily.
 
-## Key Capabilities
+# Dashboard Capabilities
 
 ### Executive Dashboard - QA Overview
 - Organization-wide visibility across all active IT test plans.
@@ -29,7 +29,19 @@ This enterprise-level reporting solution provides end-to-end visibility into tes
 ![Dashboard](images/DashBoard.jpg)
 *High-level visibility across Corporate, Marketing, and POS/Pharmacy and other IT/Business areas.*
 
+### QA Timeline
+- Current time of QA testing across IT Areas
 
+![Dashboard](images/Timeline.jpg)
+*QA Testing timeline across all IT/Business areas.*
+
+### QA Team OrgChart
+- Current QA Team org chart for visibility and information
+
+![Dashboard](images/QAOrg.jpg)
+*QA Testing team org chart*
+
+# Test Plan Report - Capabilities
 ### 1. Test Execution & Quality Analytics
 - **Live Status Tracking:** Real-time visibility into Passed, Failed, Blocked, NA, and Pending statuses.
 - **Build Quality Indicators:** Automated pass/fail ratios to identify execution gaps instantly.
